@@ -5,7 +5,7 @@ When we write `x *= y + 1` then this means `x = x * (y+1)` where the RH expressi
 
 `a[i] = i++` is ambiguous and depends on the compiler, don't do this
 
-![precedence of operators](./precedence.png)
+![precedence of operators](https://github.com/zmkm22/KR-ch2/blob/master/precedence.png)
 
 # Take Some Notes 🐳
 
